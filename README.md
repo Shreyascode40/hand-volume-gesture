@@ -1,5 +1,7 @@
 # Hand Gesture Volume Control
 
+**Author:** Shreyas
+
 Control your system volume using hand gestures via webcam.
 
 ## Features
